@@ -1,0 +1,9 @@
+{
+  "id": "org.stremio.autoplay.best",
+  "version": "1.0.0",
+  "name": "AutoPlay Best Stream",
+  "description": "Autoplays the best stream from other add-ons based on resolution and seeders.",
+  "resources": ["stream"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"]
+}
